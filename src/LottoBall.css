@@ -1,0 +1,14 @@
+.LottoBall {
+    background-color: tomato !important;
+    color: #fff;
+    font-weight: bold;
+    width: 4em;
+    height: 4em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 10px;
+    border-radius: 50% !important;
+    text-align: center;
+   
+}
